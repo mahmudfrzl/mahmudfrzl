@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudfrzl" alt="mahmudfrzl" /></a> </p>
 
-- 🔭 I’m currently working on [Human Resources Management System](https://github.com/mahmudfrzl/HRMS.JAVA)
+- 🔭 I’m currently working on [My own car site] https://github.com/mahmudfrzl/car-site
 
 - 🌱 I’m currently learning **JavaScript&React**
 
