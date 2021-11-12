@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript&React**
 
-- 📫 How to reach me **mahmudfrzli@gmail.com**
+- 📫 How to reach me **mahmudfrzli@gmail.com** By the way mu best repos are private.That's why reach mee))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
