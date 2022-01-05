@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at Kalem Yazılım MMC
 
-- 🌱 I’m currently learning **JavaScript&React**
+- 🌱 I’m currently practicing on **Algorithms&DataStructures**
 
 - 📫 How to reach me **mahmudfrzli@gmail.com** By the way mu best repos are private.That's why reach mee))
 
