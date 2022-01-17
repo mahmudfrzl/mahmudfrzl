@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudfrzl&show_icons=true&theme=tokyonight&locale=en" alt="mahmudfrzl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudfrzl&theme=tokyonight" alt="mahmudfrzl" /></p>
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![sumanentc snake gif](https://github.com/sumanentc/sumanentc/blob/output/github-contribution-grid-snake.svg)
