@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudfrzl" alt="mahmudfrzl" /></a> </p>
 
-- 🔭 I’m currently working at Kalem Yazılım MMC
+- 🔭 I’m currently working freelance at Bionluk platform.
 
 - 🌱 I’m currently practicing on **Algorithms&DataStructures**
 
