@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmud Fərzəli</h1>
-<h3 align="center">Hi, I am a self-disciplined, passionate in back-end developer in Gakh/Azerbaijan. I develop web-based applications with Java programming language. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending message.</h3>
+<h3 align="center">Hi, I am a self-disciplined, passionate in back-end developer in Baku/Azerbaijan. I develop web-based applications with Java programming language. I'm trying to write easily readable, good codes with taking design principles into account and always want to create awesome products. For more about me, please let me know by sending message.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudfrzl&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudfrzl" /> </p>
 
