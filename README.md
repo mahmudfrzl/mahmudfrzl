@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working freelance at Bionluk platform. -->
 
-- 🌱 I’m currently learning on **Microservice Architecture**
+- 🌱 I’m currently learning **Microservice Architecture**
 
 - 📫 How to reach me **mahmudfrzli@gmail.com** By the way mu best repos are private.That's why reach mee))
 
